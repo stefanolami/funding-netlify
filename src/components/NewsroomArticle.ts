@@ -37,7 +37,7 @@ export class NewsroomArtcile extends TailwindElement(style) {
                         the more I saw synergies with our core beliefs and business ambitions.”
                     </p>
                     <p class="w-[40%] mt-5 md:mt-8 mx-auto font-jose-300-it text-center text-[13px] md:text-[19px] leading-[15px] md:leading-[19px]">S. Agarwal Founder, PR Signal</p>
-                    <img class="w-[95%] xl:w-4/6 mt-6 md:mt-16 xl:mt-20 mx-auto" src="../../images/newsroom/newsroom-signature-mobile.png" alt="Signature Image">
+                    <img class="w-[95%] xl:w-4/6 mt-6 md:mt-16 xl:mt-20 mx-auto" src="../images/newsroom/newsroom-signature-mobile.png" alt="Signature Image">
                     <p class="w-[70%] md:w-[90%] mt-4 md:mt-10 xl:mt-20 mx-auto font-unna-700-it text-center text-[17px] md:text-[29px] leading-[20px] md:leading-[33px]">“It is especially in these times of COVID and the ongoing trade wars 
                         where we believe there is a responsibility as Time&Place Consulting to keep pushing for economic growth and erode trade barriers. There are too many forces 
                         pushing in the opposite direction. This is why we are delighted to announce our cooperation with our Kolkata-based business partners PR Signal, founded and 

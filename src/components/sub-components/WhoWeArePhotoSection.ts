@@ -20,28 +20,28 @@ export class WhoWeArePhotoSection extends TailwindElement(style) {
                     }
                 </style>
                 <div class="relative w-[156px] h-[156px]">
-                    <img src="../../images/who-we-are/glenn.png" alt="" class="w-full">
+                    <img src="../images/who-we-are/glenn.png" alt="" class="w-full">
                     <div class="flex flex-col justify-center items-center absolute top-[63%] z-10 w-full h-[37%] photo-layer">
                         <span class="z-20 font-unna-700 text-[13px] text-white">GLENN CEZANNE</span>
                         <span class="font-jose-400-it text-[11px] text-white">Managin Director</span>
                     </div>
                 </div>
                 <div class="relative w-[156px] h-[156px]">
-                    <img src="../../images/who-we-are/kjeld.png" alt="" class="w-full">
+                    <img src="../images/who-we-are/kjeld.png" alt="" class="w-full">
                     <div class="flex flex-col justify-center items-center absolute top-[63%] z-10 w-full h-[37%] photo-layer">
                         <span class="font-unna-700 text-center text-[13px] text-white">KJELD OLESEN</span>
                         <span class="font-jose-400-it text-[11px] text-white">Senior Associate</span>
                     </div>
                 </div>
                 <div class="relative w-[156px] h-[156px]">
-                    <img src="../../images/who-we-are/elisabetta.png" alt="" class="w-full">
+                    <img src="../images/who-we-are/elisabetta.png" alt="" class="w-full">
                     <div class="flex flex-col justify-center items-center absolute top-[63%] z-10 w-full h-[37%] photo-layer">
                         <span class="font-unna-700 text-center text-[13px] text-white">ELISABETTA SAVINO</span>
                         <span class="font-jose-400-it text-[11px] text-white">Associate Director</span>
                     </div>
                 </div>
                 <div class="relative w-[156px] h-[156px]">
-                    <img src="../../images/who-we-are/stella.png" alt="" class="w-full"> 
+                    <img src="../images/who-we-are/stella.png" alt="" class="w-full"> 
                     <div class="flex flex-col justify-center items-center absolute top-[63%] z-10 w-full h-[37%] photo-layer">
                         <span class="font-unna-700 text-center text-[13px] text-white">STELLA HOXHA</span>
                         <span class="font-jose-400-it text-[11px] text-white">Junior Consultant</span>
@@ -66,21 +66,21 @@ export class WhoWeArePhotoSection extends TailwindElement(style) {
                     }
                 </style>
                 <div class="relative w-[240px] h-[240px] xl:w-[360px] xl:h-[360px]">
-                    <img src="../../images/who-we-are/kjeld.png" alt="" class="w-full h-full">
+                    <img src="../images/who-we-are/kjeld.png" alt="" class="w-full h-full">
                     <div class="tablet-desktop-whoweare-photo-div photo-layer">
                         <span class="font-unna-700 text-center text-[19px] xl:text-[21px] text-white">KJELD OLESEN</span>
                         <span class="font-jose-400-it text-[14px] xl:text-[15px] text-white">CEO & Co-Founder</span>
                     </div>
                 </div>
                 <div class="relative w-[240px] h-[240px] xl:w-[360px] xl:h-[360px]">
-                    <img src="../../images/who-we-are/glenn.png" alt="" class="w-full">
+                    <img src="../images/who-we-are/glenn.png" alt="" class="w-full">
                     <div class="tablet-desktop-whoweare-photo-div photo-layer">
                         <span class="z-20 font-unna-700 text-[19px] xl:text-[21px] text-white">GLENN CEZANNE</span>
                         <span class="font-jose-400-it text-[14px] xl:text-[15px] text-white">Co-Founder & Strategic Advisor</span>
                     </div>
                 </div>
                 <div class="relative w-[240px] h-[240px] xl:w-[360px] xl:h-[360px]">
-                    <img src="../../images/who-we-are/arianna.png" alt="" class="w-full">
+                    <img src="../images/who-we-are/arianna.png" alt="" class="w-full">
                     <div class="tablet-desktop-whoweare-photo-div photo-layer">
                         <span class="font-unna-700 text-center text-[19px] xl:text-[21px] text-white">ARIANNA ANTONIONI</span>
                         <span class="font-jose-400-it text-[14px] xl:text-[15px] text-white">Operations Manager</span>

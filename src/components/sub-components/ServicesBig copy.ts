@@ -14,8 +14,8 @@ export class ServicesBig extends TailwindElement(style) {
                 <h1 class="text-center font-unna-700 text-[39px] xl:text-[50px] leading:-[45px] xl:leading-[57px]">OUR SERVICES</h1>
                 <p class="mt-8 text-center font-jose-400-it text-[21px] xl:text-[23px] leading-[26px]">We can step in at any point of the cycle, <br>or provide relevant training</p>
                 <div class="relative w-[770px] xl:w-[1050px] mx-auto mt-40 mb-60 select-none">
-                    <img class="xl:hidden w-[680px] pr-[60px] mx-auto z-[-10]" src="../../images/our-services/arrows.png" alt="Arrows">
-                    <img class="hidden xl:block w-[950px] pr-[60px] xl:pr-[100px] mx-auto z-[-10]" src="../../images/our-services/arrows-desktop.png" alt="Arrows">
+                    <img class="xl:hidden w-[680px] pr-[60px] mx-auto z-[-10]" src="../images/our-services/arrows.png" alt="Arrows">
+                    <img class="hidden xl:block w-[950px] pr-[60px] xl:pr-[100px] mx-auto z-[-10]" src="../images/our-services/arrows-desktop.png" alt="Arrows">
                     <div class="absolute z-10 -top-32 xl:-top-16 right-8 xl:right-12 w-[160px] text-mygreen text-center font-unna-700 text-[31px] leading-[36px]">PROJECT INITIATION</div>
                     <div class="absolute z-10 -bottom-32 xl:-bottom-12 right-8 xl:right-12 w-[160px] text-primary text-center font-unna-700 text-[31px] leading-[36px]">PROJECT PLANNING</div>
                     <div class="absolute z-10 -bottom-32 xl:-bottom-12 left-6 xl:left-16 w-[160px] text-primary-dark2 text-center font-unna-700 text-[31px] leading-[36px]">PROJECT EXECUTION</div>
@@ -36,7 +36,7 @@ export class ServicesBig extends TailwindElement(style) {
                     <div class="top-3 left-40 xl:left-60 tablet-services-btns tablet-project-closure-btns services-project-closure unfocused">New Possibilities</div>
 
 
-                    <img id="tablet-services-logo" class="block w-[425px] absolute z-10 top-20 xl:top-40 left-[178px] xl:left-80" src="../../images/our-services/T&P-Logo-services-tablet.png" alt="">
+                    <img id="tablet-services-logo" class="block w-[425px] absolute z-10 top-20 xl:top-40 left-[178px] xl:left-80" src="../images/our-services/T&P-Logo-services-tablet.png" alt="">
 
 
                     <div class="hidden absolute tablet-services-div tablet-project-initiation top-44 xl:top-[200px] left-[210px] xl:left-[330px] z-20 w-[402px] h-[340px]">

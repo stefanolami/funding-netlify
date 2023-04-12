@@ -16,16 +16,16 @@ export class Contact extends TailwindElement(style) {
                 <h1 class="font-unna-700 text-[20px] text-center mb-6">CONTACT</h1>
                 <div class="flex flex-row justify-between w-[80%] m-auto">
                     <a href="">
-                        <object data="../../images/icons/youtube.svg"></object>
+                        <object data="../images/icons/youtube.svg"></object>
                     </a>
                     <a href="">
-                        <object data="../../images/icons/twitter.svg"></object>
+                        <object data="../images/icons/twitter.svg"></object>
                     </a>
                     <a href="">
-                        <object data="../../images/icons/linkedln.svg"></object>
+                        <object data="../images/icons/linkedln.svg"></object>
                     </a>
                     <a href="">
-                        <object data="../../images/icons/facebook.svg"></object>
+                        <object data="../images/icons/facebook.svg"></object>
                     </a>
                 </div>
                 <form class="flex flex-col flex-wrap items-center w-[88%] m-auto my-6 ">
@@ -39,17 +39,17 @@ export class Contact extends TailwindElement(style) {
                 </form>
                 <div class="flex flex-col justify-around my-6 text-center">
                     <div class="flex flex-col justify-center items-center my-4">
-                        <object class="w-10 h-10 my-1" data="../../images/icons/location.svg" type=""></object>
+                        <object class="w-10 h-10 my-1" data="../images/icons/location.svg" type=""></object>
                         <h6 class="font-unna-700  text-[13px] my-1">BRUSSELS HEAD OFFICE</h6>
                         <p class="font-jose-400 text-[9px] my-[2px]">Sablon Tower, Rue Joseph Stevens 7 <br/>1000 Bruxelles Belgium</p>
                     </div>
                     <div class="flex flex-col justify-center items-center my-4">
-                        <object class="w-10 h-10 my-1" data="../../images/icons/email.svg" type=""></object>
+                        <object class="w-10 h-10 my-1" data="../images/icons/email.svg" type=""></object>
                         <h6 class="font-unna-700  text-[13px] my-1">EMAIL US</h6>
                         <p class="font-jose-400 text-[9px] my-[2px]">info@fundingontap.com</p>
                     </div>
                     <div class="flex flex-col justify-center items-center my-4">
-                        <object class="w-10 h-10 my-1" data="../../images/icons/phone.svg" type=""></object>
+                        <object class="w-10 h-10 my-1" data="../images/icons/phone.svg" type=""></object>
                         <h6 class="font-unna-700  text-[13px] my-1">CALL US</h6>
                         <p class="font-jose-400 text-[9px] my-[2px]">+32 (0) 2 401 61 31</p>
                     </div>
@@ -77,17 +77,17 @@ export class Contact extends TailwindElement(style) {
                     </form>
                     <div class="flex flex-col justify-between w-1/3 ml-10 mb-16 text-center">
                         <div class="flex flex-col justify-center items-center my-4">
-                            <object class="w-[40px] xl:w-[60px] my-1" data="../../images/icons/location.svg" type=""></object>
+                            <object class="w-[40px] xl:w-[60px] my-1" data="../images/icons/location.svg" type=""></object>
                             <h6 class="font-unna-700 text-[18px] xl:text-[21px] my-1">BRUSSELS HEAD OFFICE</h6>
                             <p class="font-jose-400 text-[14px] leading-4 my-[2px]">Sablon Tower, Rue Joseph Stevens 7 <br/>1000 Bruxelles Belgium</p>
                         </div>
                         <div class="flex flex-col justify-center items-center my-4">
-                            <object class="w-[40px] xl:w-[60px] my-1" data="../../images/icons/email.svg" type=""></object>
+                            <object class="w-[40px] xl:w-[60px] my-1" data="../images/icons/email.svg" type=""></object>
                             <h6 class="font-unna-700 text-[18px] xl:text-[21px] my-1">EMAIL US</h6>
                             <p class="font-jose-400 text-[14px] leading-4 my-[2px]">info@fundingontap.com</p>
                         </div>
                         <div class="flex flex-col justify-center items-center my-4">
-                            <object class="w-[40px] xl:w-[60px] my-1" data="../../images/icons/phone.svg" type=""></object>
+                            <object class="w-[40px] xl:w-[60px] my-1" data="../images/icons/phone.svg" type=""></object>
                             <h6 class="font-unna-700 text-[18px] xl:text-[21px] my-1">CALL US</h6>
                             <p class="font-jose-400 text-[14px] leading-4 my-[2px]">+32 (0) 2 401 61 31</p>
                         </div>
@@ -96,19 +96,19 @@ export class Contact extends TailwindElement(style) {
                 <h4 class="font-unna-700-it text-[30px] text-center my-14">Follow us on social media</h4>
                 <div class="flex flex-row justify-between w-[70%] xl:w-[50%] m-auto mt-11 mb-40">
                     <a class="flex flex-col justify-center items-center" href="">
-                        <object class="w-[40px] xl:w-[60px]"  data="../../images/icons/youtube.svg"></object>
+                        <object class="w-[40px] xl:w-[60px]"  data="../images/icons/youtube.svg"></object>
                         <p class="font-unna-700-it text-[23px] text-primary-dark2 my-3">Youtube</p>
                     </a>
                     <a class="flex flex-col justify-center items-center" href="">
-                        <object class="w-[40px] xl:w-[60px]" data="../../images/icons/twitter.svg"></object>
+                        <object class="w-[40px] xl:w-[60px]" data="../images/icons/twitter.svg"></object>
                         <p class="font-unna-700-it text-[23px] text-primary-dark2 my-3">Twitter</p>
                     </a>
                     <a class="flex flex-col justify-center items-center" href="">
-                        <object class="w-[40px] xl:w-[60px]"  data="../../images/icons/linkedln.svg"></object>
+                        <object class="w-[40px] xl:w-[60px]"  data="../images/icons/linkedln.svg"></object>
                         <p class="font-unna-700-it text-[23px] text-primary-dark2 my-3">LinkedIn</p>
                     </a>
                     <a class="flex flex-col justify-center items-center" href="">
-                        <object class="w-[40px] xl:w-[60px]"  data="../../images/icons/facebook.svg"></object>
+                        <object class="w-[40px] xl:w-[60px]"  data="../images/icons/facebook.svg"></object>
                         <p class="font-unna-700-it text-[23px] text-primary-dark2 my-3">Facebook</p>
                     </a>
                 </div>

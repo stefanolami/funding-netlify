@@ -16,7 +16,7 @@ export class PublicationsSmall extends TailwindElement(style) {
                     <div class="grid grid-rows-[1fr_2fr] relative my-[6px] h-[300px] md:h-[315px] md:my-0 text-primary-dark2">   <!-- PHOTO PUBLICATIONS BLOCK -->
                         <div class="absolute top-[-1px] left-[-1px] z-10 flex items-center rounded-br-3xl pl-2 pr-5 py-1 bg-white font-unna-700-it text-base text-primary-dark2">Funding Programmes</div>
                         <div class="h-[104px] w-full">
-                            <img class="object-cover w-full h-full" src="../../images/publications/publications-agriculture-mobile.png" class="w-full" alt="Publication Image Preview">
+                            <img class="object-cover w-full h-full" src="../images/publications/publications-agriculture-mobile.png" class="w-full" alt="Publication Image Preview">
                         </div>
                         <div class="relative flex flex-col justify-center p-6 h-full border border-t-0 border-primary ">
                             <div class="absolute top-0 right-0 p-2 leading-4">
@@ -55,7 +55,7 @@ export class PublicationsSmall extends TailwindElement(style) {
                     <div class="grid grid-rows-[1fr_2fr] relative my-[6px] h-[300px] md:h-[315px] md:my-0 text-primary-dark2">   <!-- PHOTO PUBLICATIONS BLOCK -->
                         <div class="absolute top-[-1px] left-[-1px] z-10 flex items-center rounded-br-3xl pl-2 pr-5 py-1 bg-white font-unna-700-it text-base text-primary-dark2">Predicability in Politics</div>
                         <div class="h-[104px] w-full">
-                            <img class="object-cover w-full h-full" src="../../images/publications/publications-germany-desktop.png" class="w-full" alt="Publication Image Preview">
+                            <img class="object-cover w-full h-full" src="../images/publications/publications-germany-desktop.png" class="w-full" alt="Publication Image Preview">
                         </div>
                         <div class="relative flex flex-col justify-center p-6 h-full border border-t-0 border-primary ">
                             <div class="absolute top-0 right-0 p-2 leading-4">

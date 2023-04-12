@@ -23,8 +23,8 @@ export class PublicationsArticle extends TailwindElement(style) {
                             rights and gender equality.
                         </p>
                     </div>               
-                    <img class="xl:hidden w-full mt-12" src="../../images/publications/example-commission-tablet.png" alt="European Commission">
-                    <img class="hidden xl:block w-full mt-12" src="../../images/publications/example-commission-desktop.png" alt="European Commission">
+                    <img class="xl:hidden w-full mt-12" src="../images/publications/example-commission-tablet.png" alt="European Commission">
+                    <img class="hidden xl:block w-full mt-12" src="../images/publications/example-commission-desktop.png" alt="European Commission">
                     <p class="md:w-[88%] xl:w-[75%] md:mx-auto mt-3 font-jose-300-it text-[14px] md:text-[14px] leading-4 md:leading-[14px] text-left">Legend for this beautiful and very meaningful picture that perfectly illustrates our purpose.</p>
                     <div class="md:w-[75%] xl:w-3/5 mx-auto">
                         <h2 class="publications-article-h2">Have such promises been fulfilled?</h2>
@@ -49,8 +49,8 @@ export class PublicationsArticle extends TailwindElement(style) {
                             </br></br>In particular, this Pact was to include “the first European Climate Law to enshrine the 2050 climate neutrality target into law”.
                         </p>
                     </div>               
-                    <img class="md:hidden w-full mt-12" src="../../images/publications/example-start-mobile.png" alt="European Commission">
-                    <img class="hidden md:block w-full xl:w-4/5 mx-auto mt-12 xl:mt-20" src="../../images/publications/example-start-desktop.png" alt="European Commission">
+                    <img class="md:hidden w-full mt-12" src="../images/publications/example-start-mobile.png" alt="European Commission">
+                    <img class="hidden md:block w-full xl:w-4/5 mx-auto mt-12 xl:mt-20" src="../images/publications/example-start-desktop.png" alt="European Commission">
                     <p class="md:w-[88%] xl:w-[75%] md:mx-auto mt-3 font-jose-300-it text-[14px] md:text-[14px] leading-4 md:leading-[14px] text-left">Legend for this beautiful and very meaningful picture that perfectly illustrates our purpose.</p>
                     <div class="md:w-[75%] xl:w-3/5 mx-auto">
                         <p class="mt-4 md:mt-16 publications-article-p">She also outlined a clear roadmap:
@@ -112,7 +112,7 @@ export class PublicationsArticle extends TailwindElement(style) {
                             opinion between the various Commission Directorates-General working on this issue (mainly DG Agriculture and DG Environment).
                         </p>
                     </div>                
-                    <img class="w-full xl:w-4/5 mx-auto mt-12 xl:mt-20" src="../../images/publications/example-solar-desktop.png" alt="European Commission">
+                    <img class="w-full xl:w-4/5 mx-auto mt-12 xl:mt-20" src="../images/publications/example-solar-desktop.png" alt="European Commission">
                     <p class="md:w-[88%] xl:w-[75%] md:mx-auto mt-3 font-jose-300-it text-[14px] md:text-[14px] leading-4 md:leading-[14px] text-left">Legend for this beautiful and very meaningful picture that perfectly illustrates our purpose.</p>
                     <div class="md:w-[75%] xl:w-3/5 mx-auto">
                         <p class="mt-8 md:mt-16 publications-article-p">Secondly, the Executive presented a proposal for a European regulation to enshrine the 2050 
@@ -141,8 +141,8 @@ export class PublicationsArticle extends TailwindElement(style) {
                             the world leader in high added-value data feeding the AI sector.
                         </p>
                     </div>               
-                    <img class="xl:hidden w-full mt-12" src="../../images/publications/example-weird-tablet.png" alt="European Commission">
-                    <img class="hidden xl:block w-4/5 mx-auto mt-20" src="../../images/publications/example-weird-desktop.png" alt="European Commission">
+                    <img class="xl:hidden w-full mt-12" src="../images/publications/example-weird-tablet.png" alt="European Commission">
+                    <img class="hidden xl:block w-4/5 mx-auto mt-20" src="../images/publications/example-weird-desktop.png" alt="European Commission">
                     <p class="md:w-[88%] xl:w-[75%] md:mx-auto mt-3 font-jose-300-it text-[14px] md:text-[14px] leading-4 md:leading-[14px] text-left">Legend for this beautiful and very meaningful picture that perfectly illustrates our purpose.</p>
                     <div class="md:w-[75%] xl:w-3/5 mx-auto">
                         <p class="mt-8 md:mt-16 publications-article-p">On this last topic, the "legal weakness" of the initiative presented, compared to what had been 
@@ -184,8 +184,8 @@ export class PublicationsArticle extends TailwindElement(style) {
                         </p>    
                         <p class="md:hidden mt-8 text-center md:text-right font-jose-300-it md:font-semibold text-[13px] md:text-[15px]">published on April 9, 2020</p>
                         <div class="mt-8 md:mt-20 mx-auto xl:pt-4 xl:border-t-2 xl:border-primary-dark2 max-w-[320px] md:max-w-[450px] xl:max-w-[750px] flex flex-row justify-center items-center">
-                            <img class="xl:hidden w-1/3" src="../../images/publications/example-sebastian-tablet.png" alt="Sebastian">
-                            <img class="hidden xl:block w-1/3" src="../../images/publications/example-sebastian-desktop.png" alt="Sebastian">
+                            <img class="xl:hidden w-1/3" src="../images/publications/example-sebastian-tablet.png" alt="Sebastian">
+                            <img class="hidden xl:block w-1/3" src="../images/publications/example-sebastian-desktop.png" alt="Sebastian">
                             <div class="ml-2 text-[15px] leading-[15px]">
                                 <p class="hidden md:block mb-12 xl:mb-16 text-center md:text-right font-jose-300-it md:font-semibold text-[13px] md:text-[15px]">published on April 9, 2020</p>
                                 <p class="font-jose-600 mb-2">Sébastien Blanchard</p>

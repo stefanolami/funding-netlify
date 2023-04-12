@@ -27,8 +27,8 @@ export class LandingPageBigNewsroom extends TailwindElement(style) {
                             <a href="./who-we-are.html">
                                 <div class="relative w-2/5 xl:w-2/4 m-auto mt-24 xl:mt-48 z-10 flex justify-center text-center px-3 xl:px-4 py-2 xl:py-3 bg-primary-dark2/[.7] rounded-full font-jose-400 text-white text-base">Have a look at our interactive map!</div>
                             </a>
-                            <img class="xl:hidden absolute top-0 right-0 object-cover h-full w-full" src="../../../images/landing page/landing-page-map.png" alt="">
-                            <img class="hidden xl:block absolute top-0 right-0 object-cover h-full w-full" src="../../../images/landing page/landing-page-map-desktop.png" alt="">
+                            <img class="xl:hidden absolute top-0 right-0 object-cover h-full w-full" src="../../images/landing page/landing-page-map.png" alt="">
+                            <img class="hidden xl:block absolute top-0 right-0 object-cover h-full w-full" src="../../images/landing page/landing-page-map-desktop.png" alt="">
                         </div>
                         <div class="hidden xl:flex justify-center items-center relative h-[268px] xl:h-[328px] bg-primary">   <!-- DEFAULT NEWS BLOCK -->
                             <div class="absolute top-0 left-0 flex items-center rounded-br-3xl h-[12%] p-3 pr-5 bg-white font-unna-700-it text-base xl:text-xl text-primary-dark2">T&P Insights</div>
@@ -60,7 +60,7 @@ export class LandingPageBigNewsroom extends TailwindElement(style) {
                             <a href="newsroom-article.html" class="newsroom-btn-white">READ MORE</a>
                         </div>
                         <div class="flex justify-center items-center relative h-[268px] xl:h-[328px] ">   <!-- BACKGROUND PICTURE NEWS BLOCK -->
-                            <img class="object-cover w-full h-full" src="../../../images/newsroom/newsroom-india.png" alt="">
+                            <img class="object-cover w-full h-full" src="../../images/newsroom/newsroom-india.png" alt="">
                             <div class="newsroom-block-photo-layer absolute top-0 bottom-0 right-0 left-0"></div>
                             <div class="absolute top-0 left-0 flex items-center rounded-br-3xl h-[12%] p-3 pr-5 bg-white font-unna-700-it text-base xl:text-xl text-primary-dark2">T&P Insights</div>
                             <div class="absolute bottom-0 left-0 p-3 leading-4">

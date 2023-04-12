@@ -16,7 +16,7 @@ export class PublicationsDesktop extends TailwindElement(style) {
                         <div class="grid grid-rows-2 relative h-[460px] text-primary-dark2">
                             <div class="absolute top-[-1px] left-[-1px] z-10 flex items-center rounded-br-3xl pl-2 pr-5 py-1 bg-white font-unna-700-it text-xl text-primary-dark2">Funding Programmes</div>
                             <div class="ì w-full">
-                                <img class="object-cover w-full h-full" src="../../images/publications/publications-agriculture-desktop.png" class="w-full" alt="Publication Image Preview">
+                                <img class="object-cover w-full h-full" src="../images/publications/publications-agriculture-desktop.png" class="w-full" alt="Publication Image Preview">
                             </div>
                             <div class="relative flex flex-col justify-start p-6 h-full border border-t-0 border-primary ">
                                 <div class="absolute bottom-0 left-0 p-4 leading-4">
@@ -31,7 +31,7 @@ export class PublicationsDesktop extends TailwindElement(style) {
                         <div class="grid grid-cols-2 relative h-[460px] text-primary-dark2">
                             <div class="absolute top-[-1px] left-[-1px] z-10 flex items-center rounded-br-3xl pl-2 pr-5 py-1 bg-white font-unna-700-it text-xl text-primary-dark2">Funding Programmes</div>
                             <div class="w-full">
-                                <img class="object-cover w-full h-full" src="../../images/publications/corona-desktop.png" class="w-full" alt="Publication Image Preview">
+                                <img class="object-cover w-full h-full" src="../images/publications/corona-desktop.png" class="w-full" alt="Publication Image Preview">
                             </div>
                             <div class="relative flex flex-col justify-start p-6 h-full border border-l-0 border-primary">
                                 <div class="absolute bottom-0 left-0 p-4 leading-4">
@@ -48,7 +48,7 @@ export class PublicationsDesktop extends TailwindElement(style) {
                         <div class="grid grid-cols-[1fr_40%] relative h-[380px] text-primary-dark2">
                             <div class="absolute top-[-1px] left-[-1px] z-10 flex items-center rounded-br-3xl pl-2 pr-5 py-1 bg-white font-unna-700-it text-xl text-primary-dark2">The Covid of Things</div>
                             <div class="h-full">
-                                <img class="object-cover w-full h-full" src="../../images/publications/publications-china-desktop.png" class="w-full" alt="Publication Image Preview">
+                                <img class="object-cover w-full h-full" src="../images/publications/publications-china-desktop.png" class="w-full" alt="Publication Image Preview">
                             </div>
                             <div class="relative flex flex-col justify-start p-6 h-full border border-l-0 border-primary ">
                                 <div class="absolute bottom-0 left-0 p-4 leading-4">
@@ -65,7 +65,7 @@ export class PublicationsDesktop extends TailwindElement(style) {
                         <div class="grid grid-rows-2 relative h-[460px] text-primary-dark2">
                             <div class="absolute top-[-1px] left-[-1px] z-10 flex items-center rounded-br-3xl pl-2 pr-5 py-1 bg-white font-unna-700-it text-xl text-primary-dark2">Predicability in Politics</div>
                             <div class="ì w-full">
-                                <img class="object-cover w-full h-full" src="../../images/publications/publications-germany-desktop.png" class="w-full" alt="Publication Image Preview">
+                                <img class="object-cover w-full h-full" src="../images/publications/publications-germany-desktop.png" class="w-full" alt="Publication Image Preview">
                             </div>
                             <div class="relative flex flex-col justify-start p-6 h-full border border-t-0 border-primary">
                                 <div class="absolute bottom-0 left-0 p-4 leading-4">
@@ -80,7 +80,7 @@ export class PublicationsDesktop extends TailwindElement(style) {
                         <div class="grid grid-rows-2 relative h-[460px] text-primary-dark2">
                             <div class="absolute top-[-1px] left-[-1px] z-10 flex items-center rounded-br-3xl pl-2 pr-5 py-1 bg-white font-unna-700-it text-xl text-primary-dark2">Funding Programmes</div>
                             <div class="ì w-full">
-                                <img class="object-cover w-full h-full" src="../../images/publications/publications-commission-desktop.png" class="w-full" alt="Publication Image Preview">
+                                <img class="object-cover w-full h-full" src="../images/publications/publications-commission-desktop.png" class="w-full" alt="Publication Image Preview">
                             </div>
                             <div class="relative flex flex-col justify-start p-6 h-full border border-t-0 border-primary">
                                 <div class="absolute bottom-0 left-0 p-4 leading-4">

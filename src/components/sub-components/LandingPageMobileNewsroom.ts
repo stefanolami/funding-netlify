@@ -24,7 +24,7 @@ export class LandingPageMobileNewsroom extends TailwindElement(style) {
                         <a href="newsroom-article.html" class="absolute bottom-2 right-2 w-[87px] h-8 flex justify-center items-center pt-[2px] border-2 border-white rounded-full font-jose-600 text-white text-[10px] leading-3 hover:text-primary-dark2 hover:bg-white hover:border-white cursor-pointer">READ MORE</a>
                     </div>
                     <div class=" flex justify-center items-center relative h-[200px] my-[6px] ">   <!-- BACKGROUND PICTURE NEWS BLOCK -->
-                        <img class="object-cover h-full w-full" src="../../images/newsroom/newsroom-india.png" alt="">
+                        <img class="object-cover h-full w-full" src="../images/newsroom/newsroom-india.png" alt="">
                         <div class="newsroom-block-photo-layer absolute top-0 bottom-0 right-0 left-0"></div>
                         <div class="absolute top-0 left-0 flex items-center rounded-br-3xl h-[15%] p-3 pr-5 bg-white font-unna-700-it text-base text-primary-dark2">T&P Insights</div>
                         <div class="absolute top-0 right-0 p-2 leading-4">
